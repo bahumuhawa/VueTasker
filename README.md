@@ -9,6 +9,8 @@ It's a modern Todo application crafted with Vue JS and Vueform framework. Seamle
 - **Quick Task Updates**: Mark tasks as completed or pending with just a click.
 - **Responsive Design**: Enjoy a consistent user experience across various devices and screen sizes.
 
+ ![VueTasker](vuetasker.png)
+
 ## Project Setup
 
 To set up the project locally, follow these steps:
